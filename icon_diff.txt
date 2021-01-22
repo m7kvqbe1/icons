@@ -1,0 +1,1560 @@
+Only in ./new_icons: .DS_Store
+Only in ./new_icons/action: 3d-rotation.svg
+Only in ./new_icons/action: accessibility-new.svg
+Only in ./new_icons/action: accessibility.svg
+Only in ./new_icons/action: accessible-forward.svg
+Only in ./new_icons/action: accessible.svg
+Only in ./new_icons/action: account-balance-wallet.svg
+Only in ./new_icons/action: account-balance.svg
+Only in ./new_icons/action: account-box.svg
+Only in ./new_icons/action: account-circle.svg
+Only in ./new_icons/action: add-shopping-cart.svg
+Only in ./new_icons/action: add-task.svg
+Only in ./new_icons/action: add-to-drive.svg
+Only in ./new_icons/action: addchart.svg
+Only in ./new_icons/action: admin-panel-settings.svg
+Only in ./new_icons/action: alarm-add.svg
+Only in ./new_icons/action: alarm-off.svg
+Only in ./new_icons/action: alarm-on.svg
+Only in ./new_icons/action: alarm.svg
+Only in ./new_icons/action: all-inbox.svg
+Only in ./new_icons/action: all-out.svg
+Only in ./new_icons/action: analytics.svg
+Only in ./new_icons/action: anchor.svg
+Only in ./new_icons/action: android.svg
+Only in ./new_icons/action: announcement.svg
+Only in ./new_icons/action: api.svg
+Only in ./new_icons/action: app-blocking.svg
+Only in ./new_icons/action: arrow-circle-down.svg
+Only in ./new_icons/action: arrow-circle-up.svg
+Only in ./new_icons/action: arrow-right-alt.svg
+Only in ./new_icons/action: article.svg
+Only in ./new_icons/action: aspect-ratio.svg
+Only in ./new_icons/action: assessment.svg
+Only in ./new_icons/action: assignment-ind.svg
+Only in ./new_icons/action: assignment-late.svg
+Only in ./new_icons/action: assignment-return.svg
+Only in ./new_icons/action: assignment-returned.svg
+Only in ./new_icons/action: assignment-turned-in.svg
+Only in ./new_icons/action: assignment.svg
+Only in ./new_icons/action: autorenew.svg
+Only in ./new_icons/action: backup-table.svg
+Only in ./new_icons/action: backup.svg
+Only in ./new_icons/action: batch-prediction.svg
+Only in ./new_icons/action: book-online.svg
+Only in ./new_icons/action: book.svg
+Only in ./new_icons/action: bookmark-border.svg
+Only in ./new_icons/action: bookmark.svg
+Only in ./new_icons/action: bookmarks.svg
+Only in ./new_icons/action: bug-report.svg
+Only in ./new_icons/action: build-circle.svg
+Only in ./new_icons/action: build.svg
+Files ./new_icons/action/cached.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/cached.svg differ
+Only in ./new_icons/action: calendar-today.svg
+Only in ./new_icons/action: calendar-view-day.svg
+Files ./new_icons/action/camera-enhance.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/camera-enhance.svg differ
+Only in ./new_icons/action: cancel-schedule-send.svg
+Files ./new_icons/action/card-giftcard.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/card-giftcard.svg differ
+Files ./new_icons/action/card-membership.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/card-membership.svg differ
+Files ./new_icons/action/card-travel.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/card-travel.svg differ
+Files ./new_icons/action/change-history.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/change-history.svg differ
+Only in ./new_icons/action: check-circle-outline.svg
+Files ./new_icons/action/check-circle.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/check-circle.svg differ
+Files ./new_icons/action/chrome-reader-mode.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/chrome-reader-mode.svg differ
+Only in ./new_icons/action: circle-notifications.svg
+Files ./new_icons/action/class.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/class.svg differ
+Only in ./new_icons/action: close-fullscreen.svg
+Files ./new_icons/action/code.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/code.svg differ
+Only in ./new_icons/action: comment-bank.svg
+Only in ./new_icons/action: commute.svg
+Files ./new_icons/action/compare-arrows.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/compare-arrows.svg differ
+Only in ./new_icons/action: compress.svg
+Only in ./new_icons/action: contact-page.svg
+Only in ./new_icons/action: contact-support.svg
+Only in ./new_icons/action: contactless.svg
+Files ./new_icons/action/copyright.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/copyright.svg differ
+Files ./new_icons/action/credit-card.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/credit-card.svg differ
+Only in ./new_icons/action: dangerous.svg
+Only in ./new_icons/action: dashboard-customize.svg
+Files ./new_icons/action/dashboard.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/dashboard.svg differ
+Files ./new_icons/action/date-range.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/date-range.svg differ
+Files ./new_icons/action/delete-forever.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/delete-forever.svg differ
+Only in ./new_icons/action: delete-outline.svg
+Files ./new_icons/action/delete.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/delete.svg differ
+Files ./new_icons/action/description.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/description.svg differ
+Only in ./new_icons/action: disabled-by-default.svg
+Files ./new_icons/action/dns.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/dns.svg differ
+Files ./new_icons/action/done-all.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/done-all.svg differ
+Only in ./new_icons/action: done-outline.svg
+Files ./new_icons/action/done.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/done.svg differ
+Files ./new_icons/action/donut-large.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/donut-large.svg differ
+Files ./new_icons/action/donut-small.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/donut-small.svg differ
+Only in ./new_icons/action: drag-indicator.svg
+Only in ./new_icons/action: dynamic-form.svg
+Only in ./new_icons/action: eco.svg
+Only in ./new_icons/action: edit-off.svg
+Files ./new_icons/action/eject.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/eject.svg differ
+Files ./new_icons/action/euro-symbol.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/euro-symbol.svg differ
+Files ./new_icons/action/event-seat.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/event-seat.svg differ
+Files ./new_icons/action/event.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/event.svg differ
+Files ./new_icons/action/exit-to-app.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/exit-to-app.svg differ
+Only in ./new_icons/action: expand.svg
+Only in ./new_icons/action: explore-off.svg
+Files ./new_icons/action/explore.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/explore.svg differ
+Files ./new_icons/action/extension.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/extension.svg differ
+Files ./new_icons/action/face.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/face.svg differ
+Only in ./new_icons/action: fact-check.svg
+Files ./new_icons/action/favorite-border.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/favorite-border.svg differ
+Files ./new_icons/action/favorite.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/favorite.svg differ
+Files ./new_icons/action/feedback.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/feedback.svg differ
+Only in ./new_icons/action: file-present.svg
+Only in ./new_icons/action: filter-alt.svg
+Only in ./new_icons/action: filter-list-alt.svg
+Files ./new_icons/action/find-in-page.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/find-in-page.svg differ
+Files ./new_icons/action/find-replace.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/find-replace.svg differ
+Files ./new_icons/action/fingerprint.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/fingerprint.svg differ
+Only in ./new_icons/action: fit-screen.svg
+Only in ./new_icons/action: flaky.svg
+Files ./new_icons/action/flight-land.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/flight-land.svg differ
+Files ./new_icons/action/flight-takeoff.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/flight-takeoff.svg differ
+Files ./new_icons/action/flip-to-back.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/flip-to-back.svg differ
+Files ./new_icons/action/flip-to-front.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/flip-to-front.svg differ
+Files ./new_icons/action/g-translate.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/g-translate.svg differ
+Files ./new_icons/action/gavel.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/gavel.svg differ
+Files ./new_icons/action/get-app.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/get-app.svg differ
+Files ./new_icons/action/gif.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/gif.svg differ
+Files ./new_icons/action/grade.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/grade.svg differ
+Only in ./new_icons/action: grading.svg
+Files ./new_icons/action/group-work.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/group-work.svg differ
+Only in ./new_icons/action: help-center.svg
+Files ./new_icons/action/help-outline.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/help-outline.svg differ
+Files ./new_icons/action/help.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/help.svg differ
+Only in ./new_icons/action: highlight-alt.svg
+Files ./new_icons/action/highlight-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/highlight-off.svg differ
+Only in ./new_icons/action: history-toggle-off.svg
+Files ./new_icons/action/history.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/history.svg differ
+Only in ./new_icons/action: home-filled.svg
+Files ./new_icons/action/home.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/home.svg differ
+Only in ./new_icons/action: horizontal-split.svg
+Only in ./new_icons/action: hourglass-disabled.svg
+Files ./new_icons/action/hourglass-empty.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/hourglass-empty.svg differ
+Files ./new_icons/action/hourglass-full.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/hourglass-full.svg differ
+Files ./new_icons/action/http.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/http.svg differ
+Files ./new_icons/action/https.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/https.svg differ
+Files ./new_icons/action/important-devices.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/important-devices.svg differ
+Files ./new_icons/action/info-outline.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/info-outline.svg differ
+Files ./new_icons/action/info.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/info.svg differ
+Files ./new_icons/action/input.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/input.svg differ
+Only in ./new_icons/action: integration-instructions.svg
+Files ./new_icons/action/invert-colors.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/invert-colors.svg differ
+Only in ./new_icons/action: label-important-outline.svg
+Only in ./new_icons/action: label-important.svg
+Only in ./new_icons/action: label-off.svg
+Files ./new_icons/action/label-outline.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/label-outline.svg differ
+Files ./new_icons/action/label.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/label.svg differ
+Files ./new_icons/action/language.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/language.svg differ
+Files ./new_icons/action/launch.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/launch.svg differ
+Only in ./new_icons/action: leaderboard.svg
+Files ./new_icons/action/lightbulb-outline.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/lightbulb-outline.svg differ
+Only in ./new_icons/action: lightbulb.svg
+Files ./new_icons/action/line-style.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/line-style.svg differ
+Files ./new_icons/action/line-weight.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/line-weight.svg differ
+Files ./new_icons/action/list.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/list.svg differ
+Only in ./new_icons/action: lock-clock.svg
+Files ./new_icons/action/lock-open.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/lock-open.svg differ
+Files ./new_icons/action/lock-outline.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/lock-outline.svg differ
+Files ./new_icons/action/lock.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/lock.svg differ
+Only in ./new_icons/action: login.svg
+Only in ./new_icons/action: logout.svg
+Files ./new_icons/action/loyalty.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/loyalty.svg differ
+Only in ./new_icons/action: mark-as-unread.svg
+Files ./new_icons/action/markunread-mailbox.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/markunread-mailbox.svg differ
+Only in ./new_icons/action: maximize.svg
+Only in ./new_icons/action: mediation.svg
+Only in ./new_icons/action: minimize.svg
+Only in ./new_icons/action: model-training.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action: motorcycle.svg
+Only in ./new_icons/action: next-plan.svg
+Only in ./new_icons/action: nightlight-round.svg
+Only in ./new_icons/action: not-accessible.svg
+Only in ./new_icons/action: not-started.svg
+Files ./new_icons/action/note-add.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/note-add.svg differ
+Only in ./new_icons/action: offline-bolt.svg
+Files ./new_icons/action/offline-pin.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/offline-pin.svg differ
+Only in ./new_icons/action: online-prediction.svg
+Files ./new_icons/action/opacity.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/opacity.svg differ
+Files ./new_icons/action/open-in-browser.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/open-in-browser.svg differ
+Only in ./new_icons/action: open-in-full.svg
+Files ./new_icons/action/open-in-new.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/open-in-new.svg differ
+Files ./new_icons/action/open-with.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/open-with.svg differ
+Only in ./new_icons/action: outbond.svg
+Only in ./new_icons/action: outbox.svg
+Only in ./new_icons/action: outgoing-mail.svg
+Only in ./new_icons/action: outlet.svg
+Files ./new_icons/action/pageview.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/pageview.svg differ
+Files ./new_icons/action/pan-tool.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/pan-tool.svg differ
+Files ./new_icons/action/payment.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/payment.svg differ
+Only in ./new_icons/action: pending-actions.svg
+Only in ./new_icons/action: pending.svg
+Files ./new_icons/action/perm-camera-mic.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/perm-camera-mic.svg differ
+Files ./new_icons/action/perm-contact-calendar.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/perm-contact-calendar.svg differ
+Files ./new_icons/action/perm-data-setting.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/perm-data-setting.svg differ
+Files ./new_icons/action/perm-device-information.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/perm-device-information.svg differ
+Files ./new_icons/action/perm-identity.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/perm-identity.svg differ
+Files ./new_icons/action/perm-media.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/perm-media.svg differ
+Files ./new_icons/action/perm-phone-msg.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/perm-phone-msg.svg differ
+Files ./new_icons/action/perm-scan-wifi.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/perm-scan-wifi.svg differ
+Files ./new_icons/action/pets.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/pets.svg differ
+Files ./new_icons/action/picture-in-picture-alt.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/picture-in-picture-alt.svg differ
+Files ./new_icons/action/picture-in-picture.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/picture-in-picture.svg differ
+Only in ./new_icons/action: plagiarism.svg
+Files ./new_icons/action/play-for-work.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/play-for-work.svg differ
+Files ./new_icons/action/polymer.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/polymer.svg differ
+Files ./new_icons/action/power-settings-new.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/power-settings-new.svg differ
+Files ./new_icons/action/pregnant-woman.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/pregnant-woman.svg differ
+Only in ./new_icons/action: preview.svg
+Files ./new_icons/action/print.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/print.svg differ
+Only in ./new_icons/action: privacy-tip.svg
+Only in ./new_icons/action: published-with-changes.svg
+Files ./new_icons/action/query-builder.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/query-builder.svg differ
+Files ./new_icons/action/question-answer.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/question-answer.svg differ
+Only in ./new_icons/action: quickreply.svg
+Files ./new_icons/action/receipt.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/receipt.svg differ
+Files ./new_icons/action/record-voice-over.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/record-voice-over.svg differ
+Files ./new_icons/action/redeem.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/redeem.svg differ
+Only in ./new_icons/action: remove-done.svg
+Files ./new_icons/action/remove-shopping-cart.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/remove-shopping-cart.svg differ
+Files ./new_icons/action/reorder.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/reorder.svg differ
+Files ./new_icons/action/report-problem.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/report-problem.svg differ
+Only in ./new_icons/action: request-page.svg
+Only in ./new_icons/action: restore-from-trash.svg
+Files ./new_icons/action/restore-page.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/restore-page.svg differ
+Files ./new_icons/action/restore.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/restore.svg differ
+Files ./new_icons/action/room.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/room.svg differ
+Files ./new_icons/action/rounded-corner.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/rounded-corner.svg differ
+Files ./new_icons/action/rowing.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/rowing.svg differ
+Only in ./new_icons/action: rule.svg
+Only in ./new_icons/action: saved-search.svg
+Only in ./new_icons/action: schedule-send.svg
+Files ./new_icons/action/schedule.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/schedule.svg differ
+Only in ./new_icons/action: search-off.svg
+Files ./new_icons/action/search.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/search.svg differ
+Only in ./new_icons/action: segment.svg
+Only in ./new_icons/action: send-and-archive.svg
+Files ./new_icons/action/settings-applications.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings-applications.svg differ
+Files ./new_icons/action/settings-backup-restore.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings-backup-restore.svg differ
+Files ./new_icons/action/settings-bluetooth.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings-bluetooth.svg differ
+Files ./new_icons/action/settings-brightness.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings-brightness.svg differ
+Files ./new_icons/action/settings-cell.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings-cell.svg differ
+Files ./new_icons/action/settings-ethernet.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings-ethernet.svg differ
+Files ./new_icons/action/settings-input-antenna.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings-input-antenna.svg differ
+Files ./new_icons/action/settings-input-component.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings-input-component.svg differ
+Files ./new_icons/action/settings-input-composite.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings-input-composite.svg differ
+Files ./new_icons/action/settings-input-hdmi.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings-input-hdmi.svg differ
+Files ./new_icons/action/settings-input-svideo.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings-input-svideo.svg differ
+Files ./new_icons/action/settings-overscan.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings-overscan.svg differ
+Files ./new_icons/action/settings-phone.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings-phone.svg differ
+Files ./new_icons/action/settings-power.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings-power.svg differ
+Files ./new_icons/action/settings-remote.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings-remote.svg differ
+Files ./new_icons/action/settings-voice.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings-voice.svg differ
+Files ./new_icons/action/settings.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/settings.svg differ
+Files ./new_icons/action/shop-two.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/shop-two.svg differ
+Files ./new_icons/action/shop.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/shop.svg differ
+Only in ./new_icons/action: shopping-bag.svg
+Files ./new_icons/action/shopping-basket.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/shopping-basket.svg differ
+Files ./new_icons/action/shopping-cart.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/shopping-cart.svg differ
+Only in ./new_icons/action: smart-button.svg
+Only in ./new_icons/action: source.svg
+Files ./new_icons/action/speaker-notes-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/speaker-notes-off.svg differ
+Files ./new_icons/action/speaker-notes.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/speaker-notes.svg differ
+Files ./new_icons/action/spellcheck.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/spellcheck.svg differ
+Files ./new_icons/action/star-rate.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/star-rate.svg differ
+Files ./new_icons/action/stars.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/stars.svg differ
+Only in ./new_icons/action: sticky-note-2.svg
+Files ./new_icons/action/store.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/store.svg differ
+Files ./new_icons/action/subject.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/subject.svg differ
+Only in ./new_icons/action: subtitles-off.svg
+Only in ./new_icons/action: supervised-user-circle.svg
+Files ./new_icons/action/supervisor-account.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/supervisor-account.svg differ
+Only in ./new_icons/action: support.svg
+Files ./new_icons/action/swap-horiz.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/swap-horiz.svg differ
+Only in ./new_icons/action: swap-horizontal-circle.svg
+Files ./new_icons/action/swap-vert.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/swap-vert.svg differ
+Files ./new_icons/action/swap-vertical-circle.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/swap-vertical-circle.svg differ
+Only in ./new_icons/action: swipe.svg
+Only in ./new_icons/action: sync-alt.svg
+Files ./new_icons/action/system-update-alt.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/system-update-alt.svg differ
+Files ./new_icons/action/tab-unselected.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/tab-unselected.svg differ
+Files ./new_icons/action/tab.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/tab.svg differ
+Only in ./new_icons/action: table-view.svg
+Only in ./new_icons/action: text-rotate-up.svg
+Only in ./new_icons/action: text-rotate-vertical.svg
+Only in ./new_icons/action: text-rotation-angledown.svg
+Only in ./new_icons/action: text-rotation-angleup.svg
+Only in ./new_icons/action: text-rotation-down.svg
+Only in ./new_icons/action: text-rotation-none.svg
+Files ./new_icons/action/theaters.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/theaters.svg differ
+Only in ./new_icons/action: thumb-down-off-alt.svg
+Files ./new_icons/action/thumb-down.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/thumb-down.svg differ
+Only in ./new_icons/action: thumb-up-off-alt.svg
+Files ./new_icons/action/thumb-up.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/thumb-up.svg differ
+Files ./new_icons/action/thumbs-up-down.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/thumbs-up-down.svg differ
+Files ./new_icons/action/timeline.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/timeline.svg differ
+Files ./new_icons/action/toc.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/toc.svg differ
+Files ./new_icons/action/today.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/today.svg differ
+Files ./new_icons/action/toll.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/toll.svg differ
+Files ./new_icons/action/touch-app.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/touch-app.svg differ
+Only in ./new_icons/action: tour.svg
+Files ./new_icons/action/track-changes.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/track-changes.svg differ
+Files ./new_icons/action/translate.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/translate.svg differ
+Files ./new_icons/action/trending-down.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/trending-down.svg differ
+Files ./new_icons/action/trending-flat.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/trending-flat.svg differ
+Files ./new_icons/action/trending-up.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/trending-up.svg differ
+Files ./new_icons/action/turned-in-not.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/turned-in-not.svg differ
+Files ./new_icons/action/turned-in.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/turned-in.svg differ
+Only in ./new_icons/action: unpublished.svg
+Only in ./new_icons/action: update-disabled.svg
+Files ./new_icons/action/update.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/update.svg differ
+Only in ./new_icons/action: upgrade.svg
+Files ./new_icons/action/verified-user.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/verified-user.svg differ
+Only in ./new_icons/action: verified.svg
+Only in ./new_icons/action: vertical-split.svg
+Files ./new_icons/action/view-agenda.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/view-agenda.svg differ
+Files ./new_icons/action/view-array.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/view-array.svg differ
+Files ./new_icons/action/view-carousel.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/view-carousel.svg differ
+Files ./new_icons/action/view-column.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/view-column.svg differ
+Files ./new_icons/action/view-day.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/view-day.svg differ
+Files ./new_icons/action/view-headline.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/view-headline.svg differ
+Only in ./new_icons/action: view-in-ar.svg
+Files ./new_icons/action/view-list.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/view-list.svg differ
+Files ./new_icons/action/view-module.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/view-module.svg differ
+Files ./new_icons/action/view-quilt.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/view-quilt.svg differ
+Only in ./new_icons/action: view-sidebar.svg
+Files ./new_icons/action/view-stream.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/view-stream.svg differ
+Files ./new_icons/action/view-week.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/view-week.svg differ
+Files ./new_icons/action/visibility-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/visibility-off.svg differ
+Files ./new_icons/action/visibility.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/visibility.svg differ
+Only in ./new_icons/action: voice-over-off.svg
+Files ./new_icons/action/watch-later.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/watch-later.svg differ
+Only in ./new_icons/action: wifi-protected-setup.svg
+Only in ./new_icons/action: work-off.svg
+Only in ./new_icons/action: work-outline.svg
+Files ./new_icons/action/work.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/work.svg differ
+Only in ./new_icons/action: wysiwyg.svg
+Files ./new_icons/action/youtube-searched-for.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/youtube-searched-for.svg differ
+Files ./new_icons/action/zoom-in.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/zoom-in.svg differ
+Files ./new_icons/action/zoom-out.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/action/zoom-out.svg differ
+Files ./new_icons/alert/add-alert.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/alert/add-alert.svg differ
+Only in ./new_icons/alert: auto-delete.svg
+Files ./new_icons/alert/error-outline.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/alert/error-outline.svg differ
+Files ./new_icons/alert/error.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/alert/error.svg differ
+Only in ./new_icons/alert: notification-important.svg
+Files ./new_icons/alert/warning.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/alert/warning.svg differ
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons: arrows
+Only in ./new_icons/av: 10k.svg
+Only in ./new_icons/av: 1k-plus.svg
+Only in ./new_icons/av: 1k.svg
+Only in ./new_icons/av: 2k-plus.svg
+Only in ./new_icons/av: 2k.svg
+Only in ./new_icons/av: 3k-plus.svg
+Only in ./new_icons/av: 3k.svg
+Only in ./new_icons/av: 4k-plus.svg
+Only in ./new_icons/av: 4k.svg
+Only in ./new_icons/av: 5g.svg
+Only in ./new_icons/av: 5k-plus.svg
+Only in ./new_icons/av: 5k.svg
+Only in ./new_icons/av: 6k-plus.svg
+Only in ./new_icons/av: 6k.svg
+Only in ./new_icons/av: 7k-plus.svg
+Only in ./new_icons/av: 7k.svg
+Only in ./new_icons/av: 8k-plus.svg
+Only in ./new_icons/av: 8k.svg
+Only in ./new_icons/av: 9k-plus.svg
+Only in ./new_icons/av: 9k.svg
+Files ./new_icons/av/add-to-queue.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/add-to-queue.svg differ
+Files ./new_icons/av/airplay.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/airplay.svg differ
+Files ./new_icons/av/album.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/album.svg differ
+Files ./new_icons/av/art-track.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/art-track.svg differ
+Files ./new_icons/av/av-timer.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/av-timer.svg differ
+Files ./new_icons/av/branding-watermark.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/branding-watermark.svg differ
+Files ./new_icons/av/call-to-action.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/call-to-action.svg differ
+Only in ./new_icons/av: closed-caption-disabled.svg
+Only in ./new_icons/av: closed-caption-off.svg
+Files ./new_icons/av/closed-caption.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/closed-caption.svg differ
+Only in ./new_icons/av: control-camera.svg
+Files ./new_icons/av/equalizer.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/equalizer.svg differ
+Files ./new_icons/av/explicit.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/explicit.svg differ
+Files ./new_icons/av/fast-forward.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/fast-forward.svg differ
+Files ./new_icons/av/fast-rewind.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/fast-rewind.svg differ
+Files ./new_icons/av/featured-play-list.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/featured-play-list.svg differ
+Files ./new_icons/av/featured-video.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/featured-video.svg differ
+Files ./new_icons/av/fiber-dvr.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/fiber-dvr.svg differ
+Files ./new_icons/av/fiber-manual-record.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/fiber-manual-record.svg differ
+Files ./new_icons/av/fiber-new.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/fiber-new.svg differ
+Files ./new_icons/av/fiber-pin.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/fiber-pin.svg differ
+Files ./new_icons/av/fiber-smart-record.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/fiber-smart-record.svg differ
+Files ./new_icons/av/forward-10.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/forward-10.svg differ
+Files ./new_icons/av/forward-30.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/forward-30.svg differ
+Files ./new_icons/av/forward-5.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/forward-5.svg differ
+Files ./new_icons/av/games.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/games.svg differ
+Files ./new_icons/av/hd.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/hd.svg differ
+Only in ./new_icons/av: hearing-disabled.svg
+Files ./new_icons/av/hearing.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/hearing.svg differ
+Files ./new_icons/av/high-quality.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/high-quality.svg differ
+Only in ./new_icons/av: library-add-check.svg
+Files ./new_icons/av/library-add.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/library-add.svg differ
+Files ./new_icons/av/library-books.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/library-books.svg differ
+Files ./new_icons/av/library-music.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/library-music.svg differ
+Files ./new_icons/av/loop.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/loop.svg differ
+Only in ./new_icons/av: mic-none.svg
+Only in ./new_icons/av: mic-off.svg
+Files ./new_icons/av/mic.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/mic.svg differ
+Only in ./new_icons/av: missed-video-call.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av: mnone.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av: moff.svg
+Files ./new_icons/av/movie.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/movie.svg differ
+Only in ./new_icons/av: music-video.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av: musvideo.svg
+Files ./new_icons/av/new-releases.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/new-releases.svg differ
+Files ./new_icons/av/not-interested.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/not-interested.svg differ
+Files ./new_icons/av/note.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/note.svg differ
+Files ./new_icons/av/pause-circle-filled.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/pause-circle-filled.svg differ
+Files ./new_icons/av/pause-circle-outline.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/pause-circle-outline.svg differ
+Files ./new_icons/av/pause.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/pause.svg differ
+Files ./new_icons/av/play-arrow.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/play-arrow.svg differ
+Files ./new_icons/av/play-circle-filled.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/play-circle-filled.svg differ
+Files ./new_icons/av/play-circle-outline.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/play-circle-outline.svg differ
+Only in ./new_icons/av: play-disabled.svg
+Files ./new_icons/av/playlist-add-check.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/playlist-add-check.svg differ
+Files ./new_icons/av/playlist-add.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/playlist-add.svg differ
+Files ./new_icons/av/playlist-play.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/playlist-play.svg differ
+Files ./new_icons/av/queue-music.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/queue-music.svg differ
+Files ./new_icons/av/queue-play-next.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/queue-play-next.svg differ
+Files ./new_icons/av/queue.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/queue.svg differ
+Files ./new_icons/av/radio.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/radio.svg differ
+Files ./new_icons/av/recent-actors.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/recent-actors.svg differ
+Files ./new_icons/av/remove-from-queue.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/remove-from-queue.svg differ
+Only in ./new_icons/av: repeat-on.svg
+Only in ./new_icons/av: repeat-one-on.svg
+Files ./new_icons/av/repeat-one.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/repeat-one.svg differ
+Files ./new_icons/av/repeat.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/repeat.svg differ
+Files ./new_icons/av/replay-10.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/replay-10.svg differ
+Files ./new_icons/av/replay-30.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/replay-30.svg differ
+Files ./new_icons/av/replay-5.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/replay-5.svg differ
+Only in ./new_icons/av: replay-circle-filled.svg
+Files ./new_icons/av/replay.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/replay.svg differ
+Only in ./new_icons/av: sd.svg
+Only in ./new_icons/av: shuffle-on.svg
+Files ./new_icons/av/shuffle.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/shuffle.svg differ
+Files ./new_icons/av/skip-next.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/skip-next.svg differ
+Files ./new_icons/av/skip-previous.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/skip-previous.svg differ
+Files ./new_icons/av/slow-motion-video.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/slow-motion-video.svg differ
+Files ./new_icons/av/snooze.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/snooze.svg differ
+Files ./new_icons/av/sort-by-alpha.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/sort-by-alpha.svg differ
+Files ./new_icons/av/speed.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/speed.svg differ
+Only in ./new_icons/av: stop-circle.svg
+Files ./new_icons/av/stop.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/stop.svg differ
+Files ./new_icons/av/subscriptions.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/subscriptions.svg differ
+Files ./new_icons/av/subtitles.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/subtitles.svg differ
+Files ./new_icons/av/surround-sound.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/surround-sound.svg differ
+Files ./new_icons/av/video-call.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/video-call.svg differ
+Files ./new_icons/av/video-label.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/video-label.svg differ
+Files ./new_icons/av/video-library.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/video-library.svg differ
+Only in ./new_icons/av: video-settings.svg
+Files ./new_icons/av/videocam-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/videocam-off.svg differ
+Files ./new_icons/av/videocam.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/videocam.svg differ
+Files ./new_icons/av/volume-down.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/volume-down.svg differ
+Files ./new_icons/av/volume-mute.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/volume-mute.svg differ
+Files ./new_icons/av/volume-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/volume-off.svg differ
+Files ./new_icons/av/volume-up.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/volume-up.svg differ
+Files ./new_icons/av/web-asset.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/web-asset.svg differ
+Files ./new_icons/av/web.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/av/web.svg differ
+Only in ./new_icons/communication: add-ic-call.svg
+Only in ./new_icons/communication: alternate-email.svg
+Only in ./new_icons/communication: app-registration.svg
+Files ./new_icons/communication/business.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/business.svg differ
+Files ./new_icons/communication/call-end.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/call-end.svg differ
+Files ./new_icons/communication/call-made.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/call-made.svg differ
+Files ./new_icons/communication/call-merge.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/call-merge.svg differ
+Files ./new_icons/communication/call-missed-outgoing.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/call-missed-outgoing.svg differ
+Files ./new_icons/communication/call-missed.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/call-missed.svg differ
+Files ./new_icons/communication/call-received.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/call-received.svg differ
+Files ./new_icons/communication/call-split.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/call-split.svg differ
+Files ./new_icons/communication/call.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/call.svg differ
+Only in ./new_icons/communication: cancel-presentation.svg
+Only in ./new_icons/communication: cell-wifi.svg
+Files ./new_icons/communication/chat-bubble-outline.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/chat-bubble-outline.svg differ
+Files ./new_icons/communication/chat-bubble.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/chat-bubble.svg differ
+Files ./new_icons/communication/chat.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/chat.svg differ
+Files ./new_icons/communication/clear-all.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/clear-all.svg differ
+Files ./new_icons/communication/comment.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/comment.svg differ
+Files ./new_icons/communication/contact-mail.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/contact-mail.svg differ
+Files ./new_icons/communication/contact-phone.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/contact-phone.svg differ
+Files ./new_icons/communication/contacts.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/contacts.svg differ
+Only in ./new_icons/communication: desktop-access-disabled.svg
+Files ./new_icons/communication/dialer-sip.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/dialer-sip.svg differ
+Files ./new_icons/communication/dialpad.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/dialpad.svg differ
+Only in ./new_icons/communication: domain-disabled.svg
+Only in ./new_icons/communication: domain-verification.svg
+Only in ./new_icons/communication: duo.svg
+Files ./new_icons/communication/email.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/email.svg differ
+Files ./new_icons/communication/forum.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/forum.svg differ
+Only in ./new_icons/communication: forward-to-inbox.svg
+Only in ./new_icons/communication: hourglass-bottom.svg
+Only in ./new_icons/communication: hourglass-top.svg
+Files ./new_icons/communication/import-contacts.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/import-contacts.svg differ
+Files ./new_icons/communication/import-export.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/import-export.svg differ
+Files ./new_icons/communication/invert-colors-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/invert-colors-off.svg differ
+Only in ./new_icons/communication: list-alt.svg
+Files ./new_icons/communication/live-help.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/live-help.svg differ
+Files ./new_icons/communication/location-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/location-off.svg differ
+Files ./new_icons/communication/location-on.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/location-on.svg differ
+Files ./new_icons/communication/mail-outline.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/mail-outline.svg differ
+Only in ./new_icons/communication: mark-chat-read.svg
+Only in ./new_icons/communication: mark-chat-unread.svg
+Only in ./new_icons/communication: mark-email-read.svg
+Only in ./new_icons/communication: mark-email-unread.svg
+Files ./new_icons/communication/message.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/message.svg differ
+Only in ./new_icons/communication: mobile-screen-share.svg
+Only in ./new_icons/communication: more-time.svg
+Only in ./new_icons/communication: nat.svg
+Files ./new_icons/communication/no-sim.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/no-sim.svg differ
+Only in ./new_icons/communication: pause-presentation.svg
+Only in ./new_icons/communication: person-add-disabled.svg
+Only in ./new_icons/communication: person-search.svg
+Only in ./new_icons/communication: phone-disabled.svg
+Only in ./new_icons/communication: phone-enabled.svg
+Files ./new_icons/communication/phone.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/phone.svg differ
+Files ./new_icons/communication/phonelink-erase.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/phonelink-erase.svg differ
+Files ./new_icons/communication/phonelink-lock.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/phonelink-lock.svg differ
+Files ./new_icons/communication/phonelink-ring.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/phonelink-ring.svg differ
+Files ./new_icons/communication/phonelink-setup.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/phonelink-setup.svg differ
+Files ./new_icons/communication/portable-wifi-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/portable-wifi-off.svg differ
+Files ./new_icons/communication/present-to-all.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/present-to-all.svg differ
+Only in ./new_icons/communication: print-disabled.svg
+Only in ./new_icons/communication: qr-code-2.svg
+Only in ./new_icons/communication: qr-code-scanner.svg
+Only in ./new_icons/communication: qr-code.svg
+Only in ./new_icons/communication: read-more.svg
+Files ./new_icons/communication/ring-volume.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/ring-volume.svg differ
+Files ./new_icons/communication/rss-feed.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/rss-feed.svg differ
+Only in ./new_icons/communication: rtt.svg
+Files ./new_icons/communication/screen-share.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/screen-share.svg differ
+Only in ./new_icons/communication: sentiment-satisfied-alt.svg
+Files ./new_icons/communication/speaker-phone.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/speaker-phone.svg differ
+Files ./new_icons/communication/stay-current-landscape.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/stay-current-landscape.svg differ
+Files ./new_icons/communication/stay-current-portrait.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/stay-current-portrait.svg differ
+Files ./new_icons/communication/stay-primary-landscape.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/stay-primary-landscape.svg differ
+Files ./new_icons/communication/stay-primary-portrait.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/stay-primary-portrait.svg differ
+Files ./new_icons/communication/stop-screen-share.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/stop-screen-share.svg differ
+Files ./new_icons/communication/swap-calls.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/swap-calls.svg differ
+Files ./new_icons/communication/textsms.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/textsms.svg differ
+Only in ./new_icons/communication: unsubscribe.svg
+Files ./new_icons/communication/voicemail.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/voicemail.svg differ
+Files ./new_icons/communication/vpn-key.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/communication/vpn-key.svg differ
+Only in ./new_icons/communication: wifi-calling.svg
+Files ./new_icons/content/add-box.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/add-box.svg differ
+Files ./new_icons/content/add-circle-outline.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/add-circle-outline.svg differ
+Files ./new_icons/content/add-circle.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/add-circle.svg differ
+Only in ./new_icons/content: add-link.svg
+Files ./new_icons/content/add.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/add.svg differ
+Only in ./new_icons/content: amp-stories.svg
+Files ./new_icons/content/archive.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/archive.svg differ
+Files ./new_icons/content/backspace.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/backspace.svg differ
+Only in ./new_icons/content: ballot.svg
+Only in ./new_icons/content: biotech.svg
+Only in ./new_icons/content: block-flipped.svg
+Files ./new_icons/content/block.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/block.svg differ
+Only in ./new_icons/content: bolt.svg
+Only in ./new_icons/content: calculate.svg
+Files ./new_icons/content/clear.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/clear.svg differ
+Files ./new_icons/content/content-copy.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/content-copy.svg differ
+Files ./new_icons/content/content-cut.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/content-cut.svg differ
+Files ./new_icons/content/content-paste.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/content-paste.svg differ
+Files ./new_icons/content/create.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/create.svg differ
+Files ./new_icons/content/delete-sweep.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/delete-sweep.svg differ
+Files ./new_icons/content/drafts.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/drafts.svg differ
+Only in ./new_icons/content: dynamic-feed.svg
+Only in ./new_icons/content: file-copy.svg
+Files ./new_icons/content/filter-list.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/filter-list.svg differ
+Files ./new_icons/content/flag.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/flag.svg differ
+Files ./new_icons/content/font-download.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/font-download.svg differ
+Files ./new_icons/content/forward.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/forward.svg differ
+Files ./new_icons/content/gesture.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/gesture.svg differ
+Only in ./new_icons/content: how-to-reg.svg
+Only in ./new_icons/content: how-to-vote.svg
+Files ./new_icons/content/inbox.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/inbox.svg differ
+Only in ./new_icons/content: insights.svg
+Only in ./new_icons/content: inventory.svg
+Only in ./new_icons/content: link-off.svg
+Files ./new_icons/content/link.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/link.svg differ
+Files ./new_icons/content/low-priority.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/low-priority.svg differ
+Files ./new_icons/content/mail.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/mail.svg differ
+Files ./new_icons/content/markunread.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/markunread.svg differ
+Files ./new_icons/content/move-to-inbox.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/move-to-inbox.svg differ
+Files ./new_icons/content/next-week.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/next-week.svg differ
+Only in ./new_icons/content: outlined-flag.svg
+Only in ./new_icons/content: policy.svg
+Only in ./new_icons/content: push-pin.svg
+Files ./new_icons/content/redo.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/redo.svg differ
+Files ./new_icons/content/remove-circle-outline.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/remove-circle-outline.svg differ
+Files ./new_icons/content/remove-circle.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/remove-circle.svg differ
+Files ./new_icons/content/remove.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/remove.svg differ
+Files ./new_icons/content/reply-all.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/reply-all.svg differ
+Files ./new_icons/content/reply.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/reply.svg differ
+Only in ./new_icons/content: report-off.svg
+Files ./new_icons/content/report.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/report.svg differ
+Only in ./new_icons/content: save-alt.svg
+Files ./new_icons/content/save.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/save.svg differ
+Files ./new_icons/content/select-all.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/select-all.svg differ
+Files ./new_icons/content/send.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/send.svg differ
+Only in ./new_icons/content: shield.svg
+Files ./new_icons/content/sort.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/sort.svg differ
+Only in ./new_icons/content: square-foot.svg
+Only in ./new_icons/content: stacked-bar-chart.svg
+Only in ./new_icons/content: stream.svg
+Only in ./new_icons/content: tag.svg
+Files ./new_icons/content/text-format.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/text-format.svg differ
+Files ./new_icons/content/unarchive.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/unarchive.svg differ
+Files ./new_icons/content/undo.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/undo.svg differ
+Only in ./new_icons/content: waves.svg
+Files ./new_icons/content/weekend.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/content/weekend.svg differ
+Only in ./new_icons/content: where-to-vote.svg
+Files ./new_icons/device/access-alarm.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/access-alarm.svg differ
+Files ./new_icons/device/access-alarms.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/access-alarms.svg differ
+Files ./new_icons/device/access-time.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/access-time.svg differ
+Only in ./new_icons/device: ad-units.svg
+Files ./new_icons/device/add-alarm.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/add-alarm.svg differ
+Only in ./new_icons/device: add-to-home-screen.svg
+Files ./new_icons/device/airplanemode-active.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/airplanemode-active.svg differ
+Files ./new_icons/device/airplanemode-inactive.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/airplanemode-inactive.svg differ
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: battery-20.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: battery-30.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: battery-50.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: battery-60.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: battery-80.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: battery-90.svg
+Files ./new_icons/device/battery-alert.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/battery-alert.svg differ
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: battery-charging-20.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: battery-charging-30.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: battery-charging-50.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: battery-charging-60.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: battery-charging-80.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: battery-charging-90.svg
+Files ./new_icons/device/battery-charging-full.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/battery-charging-full.svg differ
+Files ./new_icons/device/battery-full.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/battery-full.svg differ
+Files ./new_icons/device/battery-std.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/battery-std.svg differ
+Files ./new_icons/device/battery-unknown.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/battery-unknown.svg differ
+Files ./new_icons/device/bluetooth-connected.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/bluetooth-connected.svg differ
+Files ./new_icons/device/bluetooth-disabled.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/bluetooth-disabled.svg differ
+Files ./new_icons/device/bluetooth-searching.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/bluetooth-searching.svg differ
+Files ./new_icons/device/bluetooth.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/bluetooth.svg differ
+Files ./new_icons/device/brightness-auto.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/brightness-auto.svg differ
+Files ./new_icons/device/brightness-high.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/brightness-high.svg differ
+Files ./new_icons/device/brightness-low.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/brightness-low.svg differ
+Files ./new_icons/device/brightness-medium.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/brightness-medium.svg differ
+Files ./new_icons/device/data-usage.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/data-usage.svg differ
+Files ./new_icons/device/developer-mode.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/developer-mode.svg differ
+Only in ./new_icons/device: device-thermostat.svg
+Files ./new_icons/device/devices.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/devices.svg differ
+Files ./new_icons/device/dvr.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/dvr.svg differ
+Files ./new_icons/device/gps-fixed.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/gps-fixed.svg differ
+Files ./new_icons/device/gps-not-fixed.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/gps-not-fixed.svg differ
+Files ./new_icons/device/gps-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/gps-off.svg differ
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: grapheq.svg
+Only in ./new_icons/device: graphic-eq.svg
+Files ./new_icons/device/location-disabled.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/location-disabled.svg differ
+Files ./new_icons/device/location-searching.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/location-searching.svg differ
+Only in ./new_icons/device: mobile-friendly.svg
+Only in ./new_icons/device: mobile-off.svg
+Files ./new_icons/device/network-cell.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/network-cell.svg differ
+Files ./new_icons/device/network-wifi.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/network-wifi.svg differ
+Files ./new_icons/device/nfc.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/nfc.svg differ
+Only in ./new_icons/device: reset-tv.svg
+Files ./new_icons/device/screen-lock-landscape.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/screen-lock-landscape.svg differ
+Files ./new_icons/device/screen-lock-portrait.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/screen-lock-portrait.svg differ
+Files ./new_icons/device/screen-lock-rotation.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/screen-lock-rotation.svg differ
+Files ./new_icons/device/screen-rotation.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/screen-rotation.svg differ
+Only in ./new_icons/device: screen-search-desktop.svg
+Files ./new_icons/device/sd-storage.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/sd-storage.svg differ
+Only in ./new_icons/device: send-to-mobile.svg
+Files ./new_icons/device/settings-system-daydream.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/settings-system-daydream.svg differ
+Files ./new_icons/device/signal-cellular-0-bar.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/signal-cellular-0-bar.svg differ
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-cellular-1-bar.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-cellular-2-bar.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-cellular-3-bar.svg
+Files ./new_icons/device/signal-cellular-4-bar.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/signal-cellular-4-bar.svg differ
+Only in ./new_icons/device: signal-cellular-alt.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-cellular-connected-no-internet-0-bar.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-cellular-connected-no-internet-1-bar.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-cellular-connected-no-internet-2-bar.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-cellular-connected-no-internet-3-bar.svg
+Files ./new_icons/device/signal-cellular-connected-no-internet-4-bar.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/signal-cellular-connected-no-internet-4-bar.svg differ
+Files ./new_icons/device/signal-cellular-no-sim.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/signal-cellular-no-sim.svg differ
+Files ./new_icons/device/signal-cellular-null.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/signal-cellular-null.svg differ
+Files ./new_icons/device/signal-cellular-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/signal-cellular-off.svg differ
+Files ./new_icons/device/signal-wifi-0-bar.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/signal-wifi-0-bar.svg differ
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-1-bar-lock.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-1-bar.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-2-bar-lock.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-2-bar.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-3-bar-lock.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-3-bar.svg
+Files ./new_icons/device/signal-wifi-4-bar-lock.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/signal-wifi-4-bar-lock.svg differ
+Files ./new_icons/device/signal-wifi-4-bar.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/signal-wifi-4-bar.svg differ
+Files ./new_icons/device/signal-wifi-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/signal-wifi-off.svg differ
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-statusbar-1-bar-26x24px.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-statusbar-2-bar-26x24px.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-statusbar-3-bar-26x24px.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-statusbar-4-bar-26x24px.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-statusbar-connected-no-internet-1-26x24px.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-statusbar-connected-no-internet-2-26x24px.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-statusbar-connected-no-internet-26x24px.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-statusbar-connected-no-internet-3-26x24px.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-statusbar-connected-no-internet-4-26x24px.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-statusbar-not-connected-26x24px.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device: signal-wifi-statusbar-null-26x24px.svg
+Files ./new_icons/device/storage.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/storage.svg differ
+Files ./new_icons/device/usb.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/usb.svg differ
+Files ./new_icons/device/wallpaper.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/wallpaper.svg differ
+Files ./new_icons/device/widgets.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/widgets.svg differ
+Files ./new_icons/device/wifi-lock.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/wifi-lock.svg differ
+Files ./new_icons/device/wifi-tethering.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/device/wifi-tethering.svg differ
+Only in ./new_icons/editor: add-chart.svg
+Only in ./new_icons/editor: add-comment.svg
+Only in ./new_icons/editor: align-horizontal-center.svg
+Only in ./new_icons/editor: align-horizontal-left.svg
+Only in ./new_icons/editor: align-horizontal-right.svg
+Only in ./new_icons/editor: align-vertical-bottom.svg
+Only in ./new_icons/editor: align-vertical-center.svg
+Only in ./new_icons/editor: align-vertical-top.svg
+Files ./new_icons/editor/attach-file.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/attach-file.svg differ
+Files ./new_icons/editor/attach-money.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/attach-money.svg differ
+Only in ./new_icons/editor: bar-chart.svg
+Files ./new_icons/editor/border-all.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/border-all.svg differ
+Files ./new_icons/editor/border-bottom.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/border-bottom.svg differ
+Files ./new_icons/editor/border-clear.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/border-clear.svg differ
+Files ./new_icons/editor/border-color.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/border-color.svg differ
+Files ./new_icons/editor/border-horizontal.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/border-horizontal.svg differ
+Files ./new_icons/editor/border-inner.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/border-inner.svg differ
+Files ./new_icons/editor/border-left.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/border-left.svg differ
+Files ./new_icons/editor/border-outer.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/border-outer.svg differ
+Files ./new_icons/editor/border-right.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/border-right.svg differ
+Files ./new_icons/editor/border-style.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/border-style.svg differ
+Files ./new_icons/editor/border-top.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/border-top.svg differ
+Files ./new_icons/editor/border-vertical.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/border-vertical.svg differ
+Files ./new_icons/editor/bubble-chart.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/bubble-chart.svg differ
+Files ./new_icons/editor/drag-handle.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/drag-handle.svg differ
+Files ./new_icons/editor/format-align-center.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-align-center.svg differ
+Files ./new_icons/editor/format-align-justify.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-align-justify.svg differ
+Files ./new_icons/editor/format-align-left.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-align-left.svg differ
+Files ./new_icons/editor/format-align-right.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-align-right.svg differ
+Files ./new_icons/editor/format-bold.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-bold.svg differ
+Files ./new_icons/editor/format-clear.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-clear.svg differ
+Files ./new_icons/editor/format-color-fill.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-color-fill.svg differ
+Files ./new_icons/editor/format-color-reset.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-color-reset.svg differ
+Files ./new_icons/editor/format-color-text.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-color-text.svg differ
+Files ./new_icons/editor/format-indent-decrease.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-indent-decrease.svg differ
+Files ./new_icons/editor/format-indent-increase.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-indent-increase.svg differ
+Files ./new_icons/editor/format-italic.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-italic.svg differ
+Files ./new_icons/editor/format-line-spacing.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-line-spacing.svg differ
+Files ./new_icons/editor/format-list-bulleted.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-list-bulleted.svg differ
+Only in ./new_icons/editor: format-list-numbered-rtl.svg
+Files ./new_icons/editor/format-list-numbered.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-list-numbered.svg differ
+Files ./new_icons/editor/format-paint.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-paint.svg differ
+Files ./new_icons/editor/format-quote.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-quote.svg differ
+Files ./new_icons/editor/format-shapes.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-shapes.svg differ
+Files ./new_icons/editor/format-size.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-size.svg differ
+Files ./new_icons/editor/format-strikethrough.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-strikethrough.svg differ
+Files ./new_icons/editor/format-textdirection-l-to-r.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-textdirection-l-to-r.svg differ
+Files ./new_icons/editor/format-textdirection-r-to-l.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-textdirection-r-to-l.svg differ
+Files ./new_icons/editor/format-underlined.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/format-underlined.svg differ
+Files ./new_icons/editor/functions.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/functions.svg differ
+Only in ./new_icons/editor: height.svg
+Files ./new_icons/editor/highlight.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/highlight.svg differ
+Only in ./new_icons/editor: horizontal-distribute.svg
+Only in ./new_icons/editor: horizontal-rule.svg
+Only in ./new_icons/editor: insert-chart-outlined.svg
+Files ./new_icons/editor/insert-chart.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/insert-chart.svg differ
+Files ./new_icons/editor/insert-comment.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/insert-comment.svg differ
+Files ./new_icons/editor/insert-drive-file.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/insert-drive-file.svg differ
+Files ./new_icons/editor/insert-emoticon.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/insert-emoticon.svg differ
+Files ./new_icons/editor/insert-invitation.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/insert-invitation.svg differ
+Files ./new_icons/editor/insert-link.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/insert-link.svg differ
+Files ./new_icons/editor/insert-photo.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/insert-photo.svg differ
+Files ./new_icons/editor/linear-scale.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/linear-scale.svg differ
+Only in ./new_icons/editor: margin.svg
+Files ./new_icons/editor/merge-type.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/merge-type.svg differ
+Files ./new_icons/editor/mode-comment.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/mode-comment.svg differ
+Files ./new_icons/editor/mode-edit.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/mode-edit.svg differ
+Files ./new_icons/editor/monetization-on.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/monetization-on.svg differ
+Files ./new_icons/editor/money-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/money-off.svg differ
+Files ./new_icons/editor/multiline-chart.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/multiline-chart.svg differ
+Only in ./new_icons/editor: notes.svg
+Only in ./new_icons/editor: padding.svg
+Files ./new_icons/editor/pie-chart-outlined.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/pie-chart-outlined.svg differ
+Files ./new_icons/editor/pie-chart.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/pie-chart.svg differ
+Only in ./new_icons/editor: post-add.svg
+Files ./new_icons/editor/publish.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/publish.svg differ
+Only in ./new_icons/editor: scatter-plot.svg
+Only in ./new_icons/editor: score.svg
+Files ./new_icons/editor/short-text.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/short-text.svg differ
+Files ./new_icons/editor/show-chart.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/show-chart.svg differ
+Files ./new_icons/editor/space-bar.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/space-bar.svg differ
+Only in ./new_icons/editor: stacked-line-chart.svg
+Files ./new_icons/editor/strikethrough-s.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/strikethrough-s.svg differ
+Only in ./new_icons/editor: subscript.svg
+Only in ./new_icons/editor: superscript.svg
+Only in ./new_icons/editor: table-chart.svg
+Only in ./new_icons/editor: table-rows.svg
+Files ./new_icons/editor/text-fields.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/text-fields.svg differ
+Files ./new_icons/editor/title.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/title.svg differ
+Files ./new_icons/editor/vertical-align-bottom.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/vertical-align-bottom.svg differ
+Files ./new_icons/editor/vertical-align-center.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/vertical-align-center.svg differ
+Files ./new_icons/editor/vertical-align-top.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/vertical-align-top.svg differ
+Only in ./new_icons/editor: vertical-distribute.svg
+Files ./new_icons/editor/wrap-text.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/editor/wrap-text.svg differ
+Only in ./new_icons/file: approval.svg
+Only in ./new_icons/file: attach-email.svg
+Files ./new_icons/file/attachment.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/file/attachment.svg differ
+Files ./new_icons/file/cloud-circle.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/file/cloud-circle.svg differ
+Files ./new_icons/file/cloud-done.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/file/cloud-done.svg differ
+Files ./new_icons/file/cloud-download.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/file/cloud-download.svg differ
+Files ./new_icons/file/cloud-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/file/cloud-off.svg differ
+Files ./new_icons/file/cloud-queue.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/file/cloud-queue.svg differ
+Files ./new_icons/file/cloud-upload.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/file/cloud-upload.svg differ
+Files ./new_icons/file/cloud.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/file/cloud.svg differ
+Files ./new_icons/file/create-new-folder.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/file/create-new-folder.svg differ
+Only in ./new_icons/file: drive-file-move-outline.svg
+Only in ./new_icons/file: drive-file-move.svg
+Only in ./new_icons/file: drive-file-rename-outline.svg
+Only in ./new_icons/file: drive-folder-upload.svg
+Only in ./new_icons/file: file-download-done.svg
+Files ./new_icons/file/file-download.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/file/file-download.svg differ
+Files ./new_icons/file/file-upload.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/file/file-upload.svg differ
+Files ./new_icons/file/folder-open.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/file/folder-open.svg differ
+Files ./new_icons/file/folder-shared.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/file/folder-shared.svg differ
+Files ./new_icons/file/folder.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/file/folder.svg differ
+Only in ./new_icons/file: grid-view.svg
+Only in ./new_icons/file: request-quote.svg
+Only in ./new_icons/file: rule-folder.svg
+Only in ./new_icons/file: snippet-folder.svg
+Only in ./new_icons/file: text-snippet.svg
+Only in ./new_icons/file: topic.svg
+Only in ./new_icons/file: upload-file.svg
+Only in ./new_icons/file: workspaces-filled.svg
+Only in ./new_icons/file: workspaces-outline.svg
+Only in ./new_icons/hardware: browser-not-supported.svg
+Files ./new_icons/hardware/cast-connected.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/cast-connected.svg differ
+Only in ./new_icons/hardware: cast-for-education.svg
+Files ./new_icons/hardware/cast.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/cast.svg differ
+Files ./new_icons/hardware/computer.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/computer.svg differ
+Only in ./new_icons/hardware: connected-tv.svg
+Files ./new_icons/hardware/desktop-mac.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/desktop-mac.svg differ
+Files ./new_icons/hardware/desktop-windows.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/desktop-windows.svg differ
+Files ./new_icons/hardware/developer-board.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/developer-board.svg differ
+Files ./new_icons/hardware/device-hub.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/device-hub.svg differ
+Only in ./new_icons/hardware: device-unknown.svg
+Files ./new_icons/hardware/devices-other.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/devices-other.svg differ
+Files ./new_icons/hardware/dock.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/dock.svg differ
+Files ./new_icons/hardware/gamepad.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/gamepad.svg differ
+Files ./new_icons/hardware/headset-mic.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/headset-mic.svg differ
+Only in ./new_icons/hardware: headset-off.svg
+Files ./new_icons/hardware/headset.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/headset.svg differ
+Files ./new_icons/hardware/keyboard-arrow-down.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/keyboard-arrow-down.svg differ
+Files ./new_icons/hardware/keyboard-arrow-left.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/keyboard-arrow-left.svg differ
+Files ./new_icons/hardware/keyboard-arrow-right.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/keyboard-arrow-right.svg differ
+Files ./new_icons/hardware/keyboard-arrow-up.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/keyboard-arrow-up.svg differ
+Files ./new_icons/hardware/keyboard-backspace.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/keyboard-backspace.svg differ
+Files ./new_icons/hardware/keyboard-capslock.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/keyboard-capslock.svg differ
+Files ./new_icons/hardware/keyboard-hide.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/keyboard-hide.svg differ
+Files ./new_icons/hardware/keyboard-return.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/keyboard-return.svg differ
+Files ./new_icons/hardware/keyboard-tab.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/keyboard-tab.svg differ
+Files ./new_icons/hardware/keyboard-voice.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/keyboard-voice.svg differ
+Files ./new_icons/hardware/keyboard.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/keyboard.svg differ
+Files ./new_icons/hardware/laptop-chromebook.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/laptop-chromebook.svg differ
+Files ./new_icons/hardware/laptop-mac.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/laptop-mac.svg differ
+Files ./new_icons/hardware/laptop-windows.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/laptop-windows.svg differ
+Files ./new_icons/hardware/laptop.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/laptop.svg differ
+Files ./new_icons/hardware/memory.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/memory.svg differ
+Only in ./new_icons/hardware: monitor.svg
+Files ./new_icons/hardware/mouse.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/mouse.svg differ
+Files ./new_icons/hardware/phone-android.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/phone-android.svg differ
+Files ./new_icons/hardware/phone-iphone.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/phone-iphone.svg differ
+Files ./new_icons/hardware/phonelink-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/phonelink-off.svg differ
+Files ./new_icons/hardware/phonelink.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/phonelink.svg differ
+Only in ./new_icons/hardware: point-of-sale.svg
+Files ./new_icons/hardware/power-input.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/power-input.svg differ
+Files ./new_icons/hardware/router.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/router.svg differ
+Files ./new_icons/hardware/scanner.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/scanner.svg differ
+Files ./new_icons/hardware/security.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/security.svg differ
+Files ./new_icons/hardware/sim-card.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/sim-card.svg differ
+Files ./new_icons/hardware/smartphone.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/smartphone.svg differ
+Files ./new_icons/hardware/speaker-group.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/speaker-group.svg differ
+Files ./new_icons/hardware/speaker.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/speaker.svg differ
+Files ./new_icons/hardware/tablet-android.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/tablet-android.svg differ
+Files ./new_icons/hardware/tablet-mac.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/tablet-mac.svg differ
+Files ./new_icons/hardware/tablet.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/tablet.svg differ
+Files ./new_icons/hardware/toys.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/toys.svg differ
+Files ./new_icons/hardware/tv.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/tv.svg differ
+Files ./new_icons/hardware/videogame-asset.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/videogame-asset.svg differ
+Files ./new_icons/hardware/watch.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/hardware/watch.svg differ
+Only in ./new_icons: home
+Only in ./new_icons/image: 10mp.svg
+Only in ./new_icons/image: 11mp.svg
+Only in ./new_icons/image: 12mp.svg
+Only in ./new_icons/image: 13mp.svg
+Only in ./new_icons/image: 14mp.svg
+Only in ./new_icons/image: 15mp.svg
+Only in ./new_icons/image: 16mp.svg
+Only in ./new_icons/image: 17mp.svg
+Only in ./new_icons/image: 18mp.svg
+Only in ./new_icons/image: 19mp.svg
+Only in ./new_icons/image: 20mp.svg
+Only in ./new_icons/image: 21mp.svg
+Only in ./new_icons/image: 22mp.svg
+Only in ./new_icons/image: 23mp.svg
+Only in ./new_icons/image: 24mp.svg
+Only in ./new_icons/image: 2mp.svg
+Only in ./new_icons/image: 3mp.svg
+Only in ./new_icons/image: 4mp.svg
+Only in ./new_icons/image: 5mp.svg
+Only in ./new_icons/image: 6mp.svg
+Only in ./new_icons/image: 7mp.svg
+Only in ./new_icons/image: 8mp.svg
+Only in ./new_icons/image: 9mp.svg
+Files ./new_icons/image/add-a-photo.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/add-a-photo.svg differ
+Only in ./new_icons/image: add-photo-alternate.svg
+Files ./new_icons/image/add-to-photos.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/add-to-photos.svg differ
+Files ./new_icons/image/adjust.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/adjust.svg differ
+Only in ./new_icons/image: animation.svg
+Files ./new_icons/image/assistant-photo.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/assistant-photo.svg differ
+Files ./new_icons/image/assistant.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/assistant.svg differ
+Files ./new_icons/image/audiotrack.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/audiotrack.svg differ
+Only in ./new_icons/image: auto-awesome-mosaic.svg
+Only in ./new_icons/image: auto-awesome-motion.svg
+Only in ./new_icons/image: auto-awesome.svg
+Only in ./new_icons/image: auto-fix-high.svg
+Only in ./new_icons/image: auto-fix-normal.svg
+Only in ./new_icons/image: auto-fix-off.svg
+Only in ./new_icons/image: auto-stories.svg
+Only in ./new_icons/image: bedtime.svg
+Files ./new_icons/image/blur-circular.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/blur-circular.svg differ
+Files ./new_icons/image/blur-linear.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/blur-linear.svg differ
+Files ./new_icons/image/blur-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/blur-off.svg differ
+Files ./new_icons/image/blur-on.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/blur-on.svg differ
+Files ./new_icons/image/brightness-1.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/brightness-1.svg differ
+Files ./new_icons/image/brightness-2.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/brightness-2.svg differ
+Files ./new_icons/image/brightness-3.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/brightness-3.svg differ
+Files ./new_icons/image/brightness-4.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/brightness-4.svg differ
+Files ./new_icons/image/brightness-5.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/brightness-5.svg differ
+Files ./new_icons/image/brightness-6.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/brightness-6.svg differ
+Files ./new_icons/image/brightness-7.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/brightness-7.svg differ
+Files ./new_icons/image/broken-image.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/broken-image.svg differ
+Files ./new_icons/image/brush.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/brush.svg differ
+Files ./new_icons/image/burst-mode.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/burst-mode.svg differ
+Files ./new_icons/image/camera-alt.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/camera-alt.svg differ
+Files ./new_icons/image/camera-front.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/camera-front.svg differ
+Files ./new_icons/image/camera-rear.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/camera-rear.svg differ
+Files ./new_icons/image/camera-roll.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/camera-roll.svg differ
+Files ./new_icons/image/camera.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/camera.svg differ
+Only in ./new_icons/image: cases.svg
+Files ./new_icons/image/center-focus-strong.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/center-focus-strong.svg differ
+Files ./new_icons/image/center-focus-weak.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/center-focus-weak.svg differ
+Only in ./new_icons/image: circle.svg
+Files ./new_icons/image/collections-bookmark.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/collections-bookmark.svg differ
+Files ./new_icons/image/collections.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/collections.svg differ
+Files ./new_icons/image/color-lens.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/color-lens.svg differ
+Files ./new_icons/image/colorize.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/colorize.svg differ
+Files ./new_icons/image/compare.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/compare.svg differ
+Files ./new_icons/image/control-point-duplicate.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/control-point-duplicate.svg differ
+Files ./new_icons/image/control-point.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/control-point.svg differ
+Files ./new_icons/image/crop-16-9.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/crop-16-9.svg differ
+Files ./new_icons/image/crop-3-2.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/crop-3-2.svg differ
+Files ./new_icons/image/crop-5-4.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/crop-5-4.svg differ
+Files ./new_icons/image/crop-7-5.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/crop-7-5.svg differ
+Files ./new_icons/image/crop-din.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/crop-din.svg differ
+Files ./new_icons/image/crop-free.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/crop-free.svg differ
+Files ./new_icons/image/crop-landscape.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/crop-landscape.svg differ
+Files ./new_icons/image/crop-original.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/crop-original.svg differ
+Files ./new_icons/image/crop-portrait.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/crop-portrait.svg differ
+Files ./new_icons/image/crop-rotate.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/crop-rotate.svg differ
+Files ./new_icons/image/crop-square.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/crop-square.svg differ
+Files ./new_icons/image/crop.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/crop.svg differ
+Files ./new_icons/image/dehaze.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/dehaze.svg differ
+Files ./new_icons/image/details.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/details.svg differ
+Only in ./new_icons/image: dirty-lens.svg
+Files ./new_icons/image/edit.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/edit.svg differ
+Only in ./new_icons/image: euro.svg
+Files ./new_icons/image/exposure-neg-1.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/exposure-neg-1.svg differ
+Files ./new_icons/image/exposure-neg-2.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/exposure-neg-2.svg differ
+Files ./new_icons/image/exposure-plus-1.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/exposure-plus-1.svg differ
+Files ./new_icons/image/exposure-plus-2.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/exposure-plus-2.svg differ
+Files ./new_icons/image/exposure-zero.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/exposure-zero.svg differ
+Files ./new_icons/image/exposure.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/exposure.svg differ
+Only in ./new_icons/image: face-retouching-natural.svg
+Files ./new_icons/image/filter-1.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-1.svg differ
+Files ./new_icons/image/filter-2.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-2.svg differ
+Files ./new_icons/image/filter-3.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-3.svg differ
+Files ./new_icons/image/filter-4.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-4.svg differ
+Files ./new_icons/image/filter-5.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-5.svg differ
+Files ./new_icons/image/filter-6.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-6.svg differ
+Files ./new_icons/image/filter-7.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-7.svg differ
+Files ./new_icons/image/filter-8.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-8.svg differ
+Files ./new_icons/image/filter-9-plus.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-9-plus.svg differ
+Files ./new_icons/image/filter-9.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-9.svg differ
+Files ./new_icons/image/filter-b-and-w.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-b-and-w.svg differ
+Files ./new_icons/image/filter-center-focus.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-center-focus.svg differ
+Files ./new_icons/image/filter-drama.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-drama.svg differ
+Files ./new_icons/image/filter-frames.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-frames.svg differ
+Files ./new_icons/image/filter-hdr.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-hdr.svg differ
+Files ./new_icons/image/filter-none.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-none.svg differ
+Files ./new_icons/image/filter-tilt-shift.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-tilt-shift.svg differ
+Files ./new_icons/image/filter-vintage.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter-vintage.svg differ
+Files ./new_icons/image/filter.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/filter.svg differ
+Files ./new_icons/image/flare.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/flare.svg differ
+Files ./new_icons/image/flash-auto.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/flash-auto.svg differ
+Files ./new_icons/image/flash-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/flash-off.svg differ
+Files ./new_icons/image/flash-on.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/flash-on.svg differ
+Only in ./new_icons/image: flip-camera-android.svg
+Only in ./new_icons/image: flip-camera-ios.svg
+Files ./new_icons/image/flip.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/flip.svg differ
+Files ./new_icons/image/gradient.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/gradient.svg differ
+Files ./new_icons/image/grain.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/grain.svg differ
+Files ./new_icons/image/grid-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/grid-off.svg differ
+Files ./new_icons/image/grid-on.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/grid-on.svg differ
+Only in ./new_icons/image: hdr-enhanced-select.svg
+Files ./new_icons/image/hdr-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/hdr-off.svg differ
+Files ./new_icons/image/hdr-on.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/hdr-on.svg differ
+Files ./new_icons/image/hdr-strong.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/hdr-strong.svg differ
+Files ./new_icons/image/hdr-weak.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/hdr-weak.svg differ
+Files ./new_icons/image/healing.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/healing.svg differ
+Files ./new_icons/image/image-aspect-ratio.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/image-aspect-ratio.svg differ
+Only in ./new_icons/image: image-not-supported.svg
+Only in ./new_icons/image: image-search.svg
+Files ./new_icons/image/image.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/image.svg differ
+Files ./new_icons/image/iso.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/iso.svg differ
+Files ./new_icons/image/landscape.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/landscape.svg differ
+Files ./new_icons/image/leak-add.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/leak-add.svg differ
+Files ./new_icons/image/leak-remove.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/leak-remove.svg differ
+Files ./new_icons/image/lens.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/lens.svg differ
+Files ./new_icons/image/linked-camera.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/linked-camera.svg differ
+Files ./new_icons/image/looks-3.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/looks-3.svg differ
+Files ./new_icons/image/looks-4.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/looks-4.svg differ
+Files ./new_icons/image/looks-5.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/looks-5.svg differ
+Files ./new_icons/image/looks-6.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/looks-6.svg differ
+Files ./new_icons/image/looks-one.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/looks-one.svg differ
+Files ./new_icons/image/looks-two.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/looks-two.svg differ
+Files ./new_icons/image/looks.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/looks.svg differ
+Files ./new_icons/image/loupe.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/loupe.svg differ
+Only in ./new_icons/image: mic-external-off.svg
+Only in ./new_icons/image: mic-external-on.svg
+Files ./new_icons/image/monochrome-photos.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/monochrome-photos.svg differ
+Only in ./new_icons/image: motion-photos-off.svg
+Only in ./new_icons/image: motion-photos-on.svg
+Only in ./new_icons/image: motion-photos-pause.svg
+Only in ./new_icons/image: motion-photos-paused.svg
+Files ./new_icons/image/movie-creation.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/movie-creation.svg differ
+Files ./new_icons/image/movie-filter.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/movie-filter.svg differ
+Only in ./new_icons/image: mp.svg
+Only in ./new_icons/image: music-note.svg
+Only in ./new_icons/image: music-off.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image: musnote.svg
+Files ./new_icons/image/nature-people.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/nature-people.svg differ
+Files ./new_icons/image/nature.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/nature.svg differ
+Files ./new_icons/image/navigate-before.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/navigate-before.svg differ
+Files ./new_icons/image/navigate-next.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/navigate-next.svg differ
+Files ./new_icons/image/palette.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/palette.svg differ
+Files ./new_icons/image/panorama-fish-eye.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/panorama-fish-eye.svg differ
+Only in ./new_icons/image: panorama-horizontal-select.svg
+Files ./new_icons/image/panorama-horizontal.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/panorama-horizontal.svg differ
+Only in ./new_icons/image: panorama-photosphere-select.svg
+Only in ./new_icons/image: panorama-photosphere.svg
+Only in ./new_icons/image: panorama-vertical-select.svg
+Files ./new_icons/image/panorama-vertical.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/panorama-vertical.svg differ
+Only in ./new_icons/image: panorama-wide-angle-select.svg
+Files ./new_icons/image/panorama-wide-angle.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/panorama-wide-angle.svg differ
+Files ./new_icons/image/panorama.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/panorama.svg differ
+Files ./new_icons/image/photo-album.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/photo-album.svg differ
+Only in ./new_icons/image: photo-camera-back.svg
+Only in ./new_icons/image: photo-camera-front.svg
+Files ./new_icons/image/photo-camera.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/photo-camera.svg differ
+Files ./new_icons/image/photo-filter.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/photo-filter.svg differ
+Files ./new_icons/image/photo-library.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/photo-library.svg differ
+Files ./new_icons/image/photo-size-select-actual.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/photo-size-select-actual.svg differ
+Files ./new_icons/image/photo-size-select-large.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/photo-size-select-large.svg differ
+Files ./new_icons/image/photo-size-select-small.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/photo-size-select-small.svg differ
+Files ./new_icons/image/photo.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/photo.svg differ
+Files ./new_icons/image/picture-as-pdf.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/picture-as-pdf.svg differ
+Files ./new_icons/image/portrait.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/portrait.svg differ
+Only in ./new_icons/image: receipt-long.svg
+Files ./new_icons/image/remove-red-eye.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/remove-red-eye.svg differ
+Files ./new_icons/image/rotate-90-degrees-ccw.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/rotate-90-degrees-ccw.svg differ
+Files ./new_icons/image/rotate-left.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/rotate-left.svg differ
+Files ./new_icons/image/rotate-right.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/rotate-right.svg differ
+Only in ./new_icons/image: shutter-speed.svg
+Files ./new_icons/image/slideshow.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/slideshow.svg differ
+Files ./new_icons/image/straighten.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/straighten.svg differ
+Files ./new_icons/image/style.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/style.svg differ
+Files ./new_icons/image/switch-camera.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/switch-camera.svg differ
+Files ./new_icons/image/switch-video.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/switch-video.svg differ
+Files ./new_icons/image/tag-faces.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/tag-faces.svg differ
+Files ./new_icons/image/texture.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/texture.svg differ
+Files ./new_icons/image/timelapse.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/timelapse.svg differ
+Files ./new_icons/image/timer-10.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/timer-10.svg differ
+Files ./new_icons/image/timer-3.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/timer-3.svg differ
+Files ./new_icons/image/timer-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/timer-off.svg differ
+Files ./new_icons/image/timer.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/timer.svg differ
+Files ./new_icons/image/tonality.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/tonality.svg differ
+Files ./new_icons/image/transform.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/transform.svg differ
+Files ./new_icons/image/tune.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/tune.svg differ
+Files ./new_icons/image/view-comfy.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/view-comfy.svg differ
+Files ./new_icons/image/view-compact.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/view-compact.svg differ
+Files ./new_icons/image/vignette.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/vignette.svg differ
+Files ./new_icons/image/wb-auto.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/wb-auto.svg differ
+Files ./new_icons/image/wb-cloudy.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/wb-cloudy.svg differ
+Files ./new_icons/image/wb-incandescent.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/wb-incandescent.svg differ
+Files ./new_icons/image/wb-iridescent.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/wb-iridescent.svg differ
+Only in ./new_icons/image: wb-shade.svg
+Files ./new_icons/image/wb-sunny.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/image/wb-sunny.svg differ
+Only in ./new_icons/image: wb-twighlight.svg
+Only in ./new_icons/maps: 360.svg
+Only in ./new_icons/maps: add-business.svg
+Only in ./new_icons/maps: add-location-alt.svg
+Files ./new_icons/maps/add-location.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/add-location.svg differ
+Only in ./new_icons/maps: add-road.svg
+Only in ./new_icons/maps: agriculture.svg
+Only in ./new_icons/maps: alt-route.svg
+Only in ./new_icons/maps: atm.svg
+Only in ./new_icons/maps: attractions.svg
+Only in ./new_icons/maps: badge.svg
+Only in ./new_icons/maps: bakery-dining.svg
+Files ./new_icons/maps/beenhere.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/beenhere.svg differ
+Only in ./new_icons/maps: bike-scooter.svg
+Only in ./new_icons/maps: breakfast-dining.svg
+Only in ./new_icons/maps: brunch-dining.svg
+Only in ./new_icons/maps: bus-alert.svg
+Only in ./new_icons/maps: car-rental.svg
+Only in ./new_icons/maps: car-repair.svg
+Only in ./new_icons/maps: category.svg
+Only in ./new_icons/maps: celebration.svg
+Only in ./new_icons/maps: cleaning-services.svg
+Only in ./new_icons/maps: compass-calibration.svg
+Only in ./new_icons/maps: delivery-dining.svg
+Only in ./new_icons/maps: departure-board.svg
+Only in ./new_icons/maps: design-services.svg
+Only in ./new_icons/maps: dinner-dining.svg
+Files ./new_icons/maps/directions-bike.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/directions-bike.svg differ
+Files ./new_icons/maps/directions-boat.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/directions-boat.svg differ
+Files ./new_icons/maps/directions-bus.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/directions-bus.svg differ
+Files ./new_icons/maps/directions-car.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/directions-car.svg differ
+Files ./new_icons/maps/directions-railway.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/directions-railway.svg differ
+Files ./new_icons/maps/directions-run.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/directions-run.svg differ
+Files ./new_icons/maps/directions-subway.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/directions-subway.svg differ
+Files ./new_icons/maps/directions-transit.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/directions-transit.svg differ
+Files ./new_icons/maps/directions-walk.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/directions-walk.svg differ
+Files ./new_icons/maps/directions.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/directions.svg differ
+Only in ./new_icons/maps: dry-cleaning.svg
+Only in ./new_icons/maps: edit-attributes.svg
+Files ./new_icons/maps/edit-location.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/edit-location.svg differ
+Only in ./new_icons/maps: edit-road.svg
+Only in ./new_icons/maps: electric-bike.svg
+Only in ./new_icons/maps: electric-car.svg
+Only in ./new_icons/maps: electric-moped.svg
+Only in ./new_icons/maps: electric-rickshaw.svg
+Only in ./new_icons/maps: electric-scooter.svg
+Only in ./new_icons/maps: electrical-services.svg
+Files ./new_icons/maps/ev-station.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/ev-station.svg differ
+Only in ./new_icons/maps: fastfood.svg
+Only in ./new_icons/maps: festival.svg
+Files ./new_icons/maps/flight.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/flight.svg differ
+Only in ./new_icons/maps: hail.svg
+Only in ./new_icons/maps: handyman.svg
+Only in ./new_icons/maps: hardware.svg
+Only in ./new_icons/maps: home-repair-service.svg
+Files ./new_icons/maps/hotel.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/hotel.svg differ
+Only in ./new_icons/maps: hvac.svg
+Only in ./new_icons/maps: icecream.svg
+Files ./new_icons/maps/layers-clear.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/layers-clear.svg differ
+Files ./new_icons/maps/layers.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/layers.svg differ
+Only in ./new_icons/maps: liquor.svg
+Files ./new_icons/maps/local-activity.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-activity.svg differ
+Files ./new_icons/maps/local-airport.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-airport.svg differ
+Files ./new_icons/maps/local-atm.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-atm.svg differ
+Files ./new_icons/maps/local-bar.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-bar.svg differ
+Files ./new_icons/maps/local-cafe.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-cafe.svg differ
+Files ./new_icons/maps/local-car-wash.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-car-wash.svg differ
+Files ./new_icons/maps/local-convenience-store.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-convenience-store.svg differ
+Files ./new_icons/maps/local-dining.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-dining.svg differ
+Files ./new_icons/maps/local-drink.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-drink.svg differ
+Only in ./new_icons/maps: local-fire-department.svg
+Files ./new_icons/maps/local-florist.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-florist.svg differ
+Files ./new_icons/maps/local-gas-station.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-gas-station.svg differ
+Files ./new_icons/maps/local-grocery-store.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-grocery-store.svg differ
+Files ./new_icons/maps/local-hospital.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-hospital.svg differ
+Files ./new_icons/maps/local-hotel.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-hotel.svg differ
+Files ./new_icons/maps/local-laundry-service.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-laundry-service.svg differ
+Files ./new_icons/maps/local-library.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-library.svg differ
+Files ./new_icons/maps/local-mall.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-mall.svg differ
+Files ./new_icons/maps/local-movies.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-movies.svg differ
+Files ./new_icons/maps/local-offer.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-offer.svg differ
+Files ./new_icons/maps/local-parking.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-parking.svg differ
+Files ./new_icons/maps/local-pharmacy.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-pharmacy.svg differ
+Files ./new_icons/maps/local-phone.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-phone.svg differ
+Files ./new_icons/maps/local-pizza.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-pizza.svg differ
+Files ./new_icons/maps/local-play.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-play.svg differ
+Only in ./new_icons/maps: local-police.svg
+Files ./new_icons/maps/local-post-office.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-post-office.svg differ
+Files ./new_icons/maps/local-printshop.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-printshop.svg differ
+Files ./new_icons/maps/local-see.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-see.svg differ
+Files ./new_icons/maps/local-shipping.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-shipping.svg differ
+Files ./new_icons/maps/local-taxi.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/local-taxi.svg differ
+Only in ./new_icons/maps: location-pin.svg
+Only in ./new_icons/maps: lunch-dining.svg
+Files ./new_icons/maps/map.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/map.svg differ
+Only in ./new_icons/maps: maps-ugc.svg
+Only in ./new_icons/maps: medical-services.svg
+Only in ./new_icons/maps: menu-book.svg
+Only in ./new_icons/maps: miscellaneous-services.svg
+Only in ./new_icons/maps: money.svg
+Only in ./new_icons/maps: moped.svg
+Only in ./new_icons/maps: multiple-stop.svg
+Only in ./new_icons/maps: museum.svg
+Files ./new_icons/maps/my-location.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/my-location.svg differ
+Files ./new_icons/maps/navigation.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/navigation.svg differ
+Only in ./new_icons/maps: near-me-disabled.svg
+Files ./new_icons/maps/near-me.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/near-me.svg differ
+Only in ./new_icons/maps: nightlife.svg
+Only in ./new_icons/maps: no-meals-ouline.svg
+Only in ./new_icons/maps: no-meals.svg
+Only in ./new_icons/maps: no-transfer.svg
+Only in ./new_icons/maps: not-listed-location.svg
+Only in ./new_icons/maps: park.svg
+Only in ./new_icons/maps: pedal-bike.svg
+Files ./new_icons/maps/person-pin-circle.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/person-pin-circle.svg differ
+Files ./new_icons/maps/person-pin.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/person-pin.svg differ
+Only in ./new_icons/maps: pest-control-rodent.svg
+Only in ./new_icons/maps: pest-control.svg
+Files ./new_icons/maps/pin-drop.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/pin-drop.svg differ
+Files ./new_icons/maps/place.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/place.svg differ
+Only in ./new_icons/maps: plumbing.svg
+Only in ./new_icons/maps: railway-alert.svg
+Only in ./new_icons/maps: ramen-dining.svg
+Files ./new_icons/maps/rate-review.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/rate-review.svg differ
+Files ./new_icons/maps/restaurant-menu.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/restaurant-menu.svg differ
+Files ./new_icons/maps/restaurant.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/restaurant.svg differ
+Only in ./new_icons/maps: run-circle.svg
+Files ./new_icons/maps/satellite.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/satellite.svg differ
+Only in ./new_icons/maps: set-meal.svg
+Files ./new_icons/maps/store-mall-directory.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/store-mall-directory.svg differ
+Files ./new_icons/maps/streetview.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/streetview.svg differ
+Files ./new_icons/maps/subway.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/subway.svg differ
+Only in ./new_icons/maps: takeout-dining.svg
+Only in ./new_icons/maps: taxi-alert.svg
+Files ./new_icons/maps/terrain.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/terrain.svg differ
+Only in ./new_icons/maps: theater-comedy.svg
+Files ./new_icons/maps/traffic.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/traffic.svg differ
+Files ./new_icons/maps/train.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/train.svg differ
+Files ./new_icons/maps/tram.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/tram.svg differ
+Files ./new_icons/maps/transfer-within-a-station.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/transfer-within-a-station.svg differ
+Only in ./new_icons/maps: transit-enterexit.svg
+Only in ./new_icons/maps: trip-origin.svg
+Only in ./new_icons/maps: two-wheeler.svg
+Only in ./new_icons/maps: volunteer-activism.svg
+Only in ./new_icons/maps: wine-bar.svg
+Only in ./new_icons/maps: wrong-location.svg
+Files ./new_icons/maps/zoom-out-map.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/maps/zoom-out-map.svg differ
+Only in ./new_icons/navigation: app-settings-alt.svg
+Files ./new_icons/navigation/apps.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/apps.svg differ
+Only in ./new_icons/navigation: arrow-back-ios.svg
+Files ./new_icons/navigation/arrow-back.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/arrow-back.svg differ
+Files ./new_icons/navigation/arrow-downward.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/arrow-downward.svg differ
+Files ./new_icons/navigation/arrow-drop-down-circle.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/arrow-drop-down-circle.svg differ
+Files ./new_icons/navigation/arrow-drop-down.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/arrow-drop-down.svg differ
+Files ./new_icons/navigation/arrow-drop-up.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/arrow-drop-up.svg differ
+Only in ./new_icons/navigation: arrow-forward-ios.svg
+Files ./new_icons/navigation/arrow-forward.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/arrow-forward.svg differ
+Only in ./new_icons/navigation: arrow-left.svg
+Only in ./new_icons/navigation: arrow-right.svg
+Files ./new_icons/navigation/arrow-upward.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/arrow-upward.svg differ
+Only in ./new_icons/navigation: assistant-direction.svg
+Only in ./new_icons/navigation: assistant-navigation.svg
+Only in ./new_icons/navigation: campaign.svg
+Files ./new_icons/navigation/cancel.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/cancel.svg differ
+Files ./new_icons/navigation/check.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/check.svg differ
+Files ./new_icons/navigation/chevron-left.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/chevron-left.svg differ
+Files ./new_icons/navigation/chevron-right.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/chevron-right.svg differ
+Files ./new_icons/navigation/close.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/close.svg differ
+Only in ./new_icons/navigation: double-arrow.svg
+Only in ./new_icons/navigation: east.svg
+Files ./new_icons/navigation/expand-less.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/expand-less.svg differ
+Files ./new_icons/navigation/expand-more.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/expand-more.svg differ
+Files ./new_icons/navigation/first-page.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/first-page.svg differ
+Files ./new_icons/navigation/fullscreen-exit.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/fullscreen-exit.svg differ
+Files ./new_icons/navigation/fullscreen.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/fullscreen.svg differ
+Only in ./new_icons/navigation: home-work.svg
+Files ./new_icons/navigation/last-page.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/last-page.svg differ
+Only in ./new_icons/navigation: legend-toggle.svg
+Only in ./new_icons/navigation: menu-open.svg
+Files ./new_icons/navigation/menu.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/menu.svg differ
+Files ./new_icons/navigation/more-horiz.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/more-horiz.svg differ
+Files ./new_icons/navigation/more-vert.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/more-vert.svg differ
+Only in ./new_icons/navigation: north-east.svg
+Only in ./new_icons/navigation: north-west.svg
+Only in ./new_icons/navigation: north.svg
+Only in ./new_icons/navigation: offline-share.svg
+Only in ./new_icons/navigation: payments.svg
+Only in ./new_icons/navigation: pivot-table-chart.svg
+Files ./new_icons/navigation/refresh.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/refresh.svg differ
+Only in ./new_icons/navigation: south-east.svg
+Only in ./new_icons/navigation: south-west.svg
+Only in ./new_icons/navigation: south.svg
+Files ./new_icons/navigation/subdirectory-arrow-left.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/subdirectory-arrow-left.svg differ
+Files ./new_icons/navigation/subdirectory-arrow-right.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/subdirectory-arrow-right.svg differ
+Only in ./new_icons/navigation: switch-left.svg
+Only in ./new_icons/navigation: switch-right.svg
+Files ./new_icons/navigation/unfold-less.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/unfold-less.svg differ
+Files ./new_icons/navigation/unfold-more.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/navigation/unfold-more.svg differ
+Only in ./new_icons/navigation: waterfall-chart.svg
+Only in ./new_icons/navigation: west.svg
+Only in ./new_icons/notification: account-tree.svg
+Files ./new_icons/notification/adb.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/adb.svg differ
+Only in ./new_icons/notification: add-call.svg
+Files ./new_icons/notification/airline-seat-flat-angled.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/airline-seat-flat-angled.svg differ
+Files ./new_icons/notification/airline-seat-flat.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/airline-seat-flat.svg differ
+Files ./new_icons/notification/airline-seat-individual-suite.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/airline-seat-individual-suite.svg differ
+Files ./new_icons/notification/airline-seat-legroom-extra.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/airline-seat-legroom-extra.svg differ
+Files ./new_icons/notification/airline-seat-legroom-normal.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/airline-seat-legroom-normal.svg differ
+Files ./new_icons/notification/airline-seat-legroom-reduced.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/airline-seat-legroom-reduced.svg differ
+Files ./new_icons/notification/airline-seat-recline-extra.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/airline-seat-recline-extra.svg differ
+Files ./new_icons/notification/airline-seat-recline-normal.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/airline-seat-recline-normal.svg differ
+Files ./new_icons/notification/bluetooth-audio.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/bluetooth-audio.svg differ
+Files ./new_icons/notification/confirmation-number.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/confirmation-number.svg differ
+Only in ./new_icons/notification: directions-off.svg
+Files ./new_icons/notification/disc-full.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/disc-full.svg differ
+Files ./new_icons/notification/do-not-disturb-alt.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/do-not-disturb-alt.svg differ
+Files ./new_icons/notification/do-not-disturb-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/do-not-disturb-off.svg differ
+Files ./new_icons/notification/do-not-disturb-on.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/do-not-disturb-on.svg differ
+Files ./new_icons/notification/do-not-disturb.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/do-not-disturb.svg differ
+Files ./new_icons/notification/drive-eta.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/drive-eta.svg differ
+Files ./new_icons/notification/enhanced-encryption.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/enhanced-encryption.svg differ
+Files ./new_icons/notification/event-available.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/event-available.svg differ
+Files ./new_icons/notification/event-busy.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/event-busy.svg differ
+Files ./new_icons/notification/event-note.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/event-note.svg differ
+Files ./new_icons/notification/folder-special.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/folder-special.svg differ
+Only in ./new_icons/notification: imagesearch-roller.svg
+Files ./new_icons/notification/live-tv.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/live-tv.svg differ
+Files ./new_icons/notification/mms.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/mms.svg differ
+Files ./new_icons/notification/more.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/more.svg differ
+Files ./new_icons/notification/network-check.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/network-check.svg differ
+Files ./new_icons/notification/network-locked.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/network-locked.svg differ
+Files ./new_icons/notification/no-encryption.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/no-encryption.svg differ
+Files ./new_icons/notification/ondemand-video.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/ondemand-video.svg differ
+Files ./new_icons/notification/personal-video.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/personal-video.svg differ
+Files ./new_icons/notification/phone-bluetooth-speaker.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/phone-bluetooth-speaker.svg differ
+Only in ./new_icons/notification: phone-callback.svg
+Files ./new_icons/notification/phone-forwarded.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/phone-forwarded.svg differ
+Files ./new_icons/notification/phone-in-talk.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/phone-in-talk.svg differ
+Files ./new_icons/notification/phone-locked.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/phone-locked.svg differ
+Files ./new_icons/notification/phone-missed.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/phone-missed.svg differ
+Files ./new_icons/notification/phone-paused.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/phone-paused.svg differ
+Only in ./new_icons/notification: power-off.svg
+Files ./new_icons/notification/power.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/power.svg differ
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification: priority-high-12px.svg
+Only in ./new_icons/notification: priority-high.svg
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification: rv-hookup.svg
+Files ./new_icons/notification/sd-card.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/sd-card.svg differ
+Files ./new_icons/notification/sim-card-alert.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/sim-card-alert.svg differ
+Files ./new_icons/notification/sms-failed.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/sms-failed.svg differ
+Files ./new_icons/notification/sms.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/sms.svg differ
+Only in ./new_icons/notification: support-agent.svg
+Files ./new_icons/notification/sync-disabled.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/sync-disabled.svg differ
+Files ./new_icons/notification/sync-problem.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/sync-problem.svg differ
+Files ./new_icons/notification/sync.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/sync.svg differ
+Files ./new_icons/notification/system-update.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/system-update.svg differ
+Files ./new_icons/notification/tap-and-play.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/tap-and-play.svg differ
+Files ./new_icons/notification/time-to-leave.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/time-to-leave.svg differ
+Only in ./new_icons/notification: tv-off.svg
+Files ./new_icons/notification/vibration.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/vibration.svg differ
+Files ./new_icons/notification/voice-chat.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/voice-chat.svg differ
+Files ./new_icons/notification/vpn-lock.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/vpn-lock.svg differ
+Files ./new_icons/notification/wc.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/wc.svg differ
+Only in ./new_icons/notification: wifi-off.svg
+Files ./new_icons/notification/wifi.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/notification/wifi.svg differ
+Files ./new_icons/places/ac-unit.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/ac-unit.svg differ
+Files ./new_icons/places/airport-shuttle.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/airport-shuttle.svg differ
+Files ./new_icons/places/all-inclusive.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/all-inclusive.svg differ
+Only in ./new_icons/places: apartment.svg
+Only in ./new_icons/places: baby-changing-station.svg
+Only in ./new_icons/places: backpack.svg
+Only in ./new_icons/places: bathtub.svg
+Files ./new_icons/places/beach-access.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/beach-access.svg differ
+Only in ./new_icons/places: bento.svg
+Files ./new_icons/places/business-center.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/business-center.svg differ
+Only in ./new_icons/places: carpenter.svg
+Files ./new_icons/places/casino.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/casino.svg differ
+Only in ./new_icons/places: charging-station.svg
+Only in ./new_icons/places: checkroom.svg
+Files ./new_icons/places/child-care.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/child-care.svg differ
+Files ./new_icons/places/child-friendly.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/child-friendly.svg differ
+Only in ./new_icons/places: corporate-fare.svg
+Only in ./new_icons/places: countertops.svg
+Only in ./new_icons/places: do-not-step.svg
+Only in ./new_icons/places: do-not-touch.svg
+Only in ./new_icons/places: dry.svg
+Only in ./new_icons/places: elevator.svg
+Only in ./new_icons/places: escalator-warning.svg
+Only in ./new_icons/places: escalator.svg
+Only in ./new_icons/places: family-restroom.svg
+Only in ./new_icons/places: fence.svg
+Only in ./new_icons/places: fire-extinguisher.svg
+Files ./new_icons/places/fitness-center.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/fitness-center.svg differ
+Only in ./new_icons/places: food-bank.svg
+Only in ./new_icons/places: foundation.svg
+Files ./new_icons/places/free-breakfast.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/free-breakfast.svg differ
+Files ./new_icons/places/golf-course.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/golf-course.svg differ
+Only in ./new_icons/places: grass.svg
+Files ./new_icons/places/hot-tub.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/hot-tub.svg differ
+Only in ./new_icons/places: house-siding.svg
+Only in ./new_icons/places: house.svg
+Files ./new_icons/places/kitchen.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/kitchen.svg differ
+Only in ./new_icons/places: meeting-room.svg
+Only in ./new_icons/places: microwave.svg
+Only in ./new_icons/places: night-shelter.svg
+Only in ./new_icons/places: no-backpack.svg
+Only in ./new_icons/places: no-cell.svg
+Only in ./new_icons/places: no-drinks.svg
+Only in ./new_icons/places: no-flash.svg
+Only in ./new_icons/places: no-food.svg
+Only in ./new_icons/places: no-meeting-room.svg
+Only in ./new_icons/places: no-photography.svg
+Only in ./new_icons/places: no-stroller.svg
+Files ./new_icons/places/pool.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/pool.svg differ
+Only in ./new_icons/places: rice-bowl.svg
+Only in ./new_icons/places: roofing.svg
+Only in ./new_icons/places: room-preferences.svg
+Files ./new_icons/places/room-service.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/room-service.svg differ
+Files ./new_icons/places/rv-hookup.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/rv-hookup.svg differ
+Files ./new_icons/places/smoke-free.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/smoke-free.svg differ
+Files ./new_icons/places/smoking-rooms.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/smoking-rooms.svg differ
+Only in ./new_icons/places: soap.svg
+Files ./new_icons/places/spa.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/places/spa.svg differ
+Only in ./new_icons/places: sports-bar.svg
+Only in ./new_icons/places: stairs.svg
+Only in ./new_icons/places: storefront.svg
+Only in ./new_icons/places: stroller.svg
+Only in ./new_icons/places: tapas.svg
+Only in ./new_icons/places: tty.svg
+Only in ./new_icons/places: umbrella.svg
+Only in ./new_icons/places: wash.svg
+Only in ./new_icons/places: water-damage.svg
+Only in ./new_icons/places: wheelchair-pickup.svg
+Only in ./new_icons/social: 6-ft-apart.svg
+Only in ./new_icons/social: add-moderator.svg
+Only in ./new_icons/social: architecture.svg
+Files ./new_icons/social/cake.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/cake.svg differ
+Only in ./new_icons/social: clean-hands.svg
+Only in ./new_icons/social: connect-without-contact.svg
+Only in ./new_icons/social: construction.svg
+Only in ./new_icons/social: coronavirus.svg
+Only in ./new_icons/social: deck.svg
+Files ./new_icons/social/domain.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/domain.svg differ
+Only in ./new_icons/social: elderly.svg
+Only in ./new_icons/social: emoji-emotions.svg
+Only in ./new_icons/social: emoji-events.svg
+Only in ./new_icons/social: emoji-flags.svg
+Only in ./new_icons/social: emoji-food-beverage.svg
+Only in ./new_icons/social: emoji-nature.svg
+Only in ./new_icons/social: emoji-objects.svg
+Only in ./new_icons/social: emoji-people.svg
+Only in ./new_icons/social: emoji-symbols.svg
+Only in ./new_icons/social: emoji-transportation.svg
+Only in ./new_icons/social: engineering.svg
+Only in ./new_icons/social: facebook.svg
+Only in ./new_icons/social: fireplace.svg
+Only in ./new_icons/social: follow-the-signs.svg
+Files ./new_icons/social/group-add.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/group-add.svg differ
+Files ./new_icons/social/group.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/group.svg differ
+Only in ./new_icons/social: groups.svg
+Only in ./new_icons/social: history-edu.svg
+Only in ./new_icons/social: ios-share.svg
+Only in ./new_icons/social: king-bed.svg
+Files ./new_icons/social/location-city.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/location-city.svg differ
+Only in ./new_icons/social: luggage.svg
+Only in ./new_icons/social: masks.svg
+Only in ./new_icons/social: military-tech.svg
+Files ./new_icons/social/mood-bad.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/mood-bad.svg differ
+Files ./new_icons/social/mood.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/mood.svg differ
+Only in ./new_icons/social: nights-stay.svg
+Only in ./new_icons/social: no-luggage.svg
+Files ./new_icons/social/notifications-active.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/notifications-active.svg differ
+Files ./new_icons/social/notifications-none.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/notifications-none.svg differ
+Files ./new_icons/social/notifications-off.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/notifications-off.svg differ
+Files ./new_icons/social/notifications-paused.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/notifications-paused.svg differ
+Files ./new_icons/social/notifications.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/notifications.svg differ
+Only in ./new_icons/social: outdoor-grill.svg
+Files ./new_icons/social/pages.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/pages.svg differ
+Files ./new_icons/social/party-mode.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/party-mode.svg differ
+Only in ./new_icons/social: people-alt.svg
+Files ./new_icons/social/people-outline.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/people-outline.svg differ
+Files ./new_icons/social/people.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/people.svg differ
+Only in ./new_icons/social: person-add-alt-1.svg
+Only in ./new_icons/social: person-add-alt.svg
+Files ./new_icons/social/person-add.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/person-add.svg differ
+Files ./new_icons/social/person-outline.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/person-outline.svg differ
+Only in ./new_icons/social: person-remove-alt-1.svg
+Only in ./new_icons/social: person-remove.svg
+Files ./new_icons/social/person.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/person.svg differ
+Files ./new_icons/social/plus-one.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/plus-one.svg differ
+Files ./new_icons/social/poll.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/poll.svg differ
+Only in ./new_icons/social: psychology.svg
+Only in ./new_icons/social: public-off.svg
+Files ./new_icons/social/public.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/public.svg differ
+Only in ./new_icons/social: recommend.svg
+Only in ./new_icons/social: reduce-capacity.svg
+Only in ./new_icons/social: remove-moderator.svg
+Only in ./new_icons/social: sanitizer.svg
+Files ./new_icons/social/school.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/school.svg differ
+Only in ./new_icons/social: science.svg
+Only in ./new_icons/social: self-improvement.svg
+Files ./new_icons/social/sentiment-dissatisfied.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/sentiment-dissatisfied.svg differ
+Files ./new_icons/social/sentiment-neutral.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/sentiment-neutral.svg differ
+Files ./new_icons/social/sentiment-satisfied.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/sentiment-satisfied.svg differ
+Files ./new_icons/social/sentiment-very-dissatisfied.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/sentiment-very-dissatisfied.svg differ
+Files ./new_icons/social/sentiment-very-satisfied.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/sentiment-very-satisfied.svg differ
+Files ./new_icons/social/share.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/share.svg differ
+Only in ./new_icons/social: sick.svg
+Only in ./new_icons/social: single-bed.svg
+Only in ./new_icons/social: sports-baseball.svg
+Only in ./new_icons/social: sports-basketball.svg
+Only in ./new_icons/social: sports-cricket.svg
+Only in ./new_icons/social: sports-esports.svg
+Only in ./new_icons/social: sports-football.svg
+Only in ./new_icons/social: sports-golf.svg
+Only in ./new_icons/social: sports-handball.svg
+Only in ./new_icons/social: sports-hockey.svg
+Only in ./new_icons/social: sports-kabaddi.svg
+Only in ./new_icons/social: sports-mma.svg
+Only in ./new_icons/social: sports-motorsports.svg
+Only in ./new_icons/social: sports-rugby.svg
+Only in ./new_icons/social: sports-soccer.svg
+Only in ./new_icons/social: sports-tennis.svg
+Only in ./new_icons/social: sports-volleyball.svg
+Only in ./new_icons/social: sports.svg
+Only in ./new_icons/social: switch-account.svg
+Only in ./new_icons/social: thumb-down-alt.svg
+Only in ./new_icons/social: thumb-up-alt.svg
+Files ./new_icons/social/whatshot.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/social/whatshot.svg differ
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons: standards
+Only in /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons: table
+Files ./new_icons/toggle/check-box-outline-blank.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/toggle/check-box-outline-blank.svg differ
+Files ./new_icons/toggle/check-box.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/toggle/check-box.svg differ
+Files ./new_icons/toggle/indeterminate-check-box.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/toggle/indeterminate-check-box.svg differ
+Files ./new_icons/toggle/radio-button-checked.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/toggle/radio-button-checked.svg differ
+Files ./new_icons/toggle/radio-button-unchecked.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/toggle/radio-button-unchecked.svg differ
+Files ./new_icons/toggle/star-border.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/toggle/star-border.svg differ
+Files ./new_icons/toggle/star-half.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/toggle/star-half.svg differ
+Only in ./new_icons/toggle: star-outline.svg
+Files ./new_icons/toggle/star.svg and /Users/tomhumphris/Projects/design-system/packages/icon-library/src/assets/icons/toggle/star.svg differ
+Only in ./new_icons/toggle: toggle-off.svg
+Only in ./new_icons/toggle: toggle-on.svg
